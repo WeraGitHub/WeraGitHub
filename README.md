@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Weronika
 
+
+Thanks for visiting my GitHub profile :)
+
+
+<!--
 <h3 >Languages I've worked with</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-BF8091?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -20,7 +25,7 @@
   <br>
   <img src="https://img.shields.io/badge/PHP-BF8091?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
-
+-->
 <!--
 **WeraGitHub/WeraGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
